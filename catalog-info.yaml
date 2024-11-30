@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: vpn-cli
+  description: CLI para configuração de VPN e rotas no macOS
+  owner: team-devops
+spec:
+  type: library
+  lifecycle: active
+  owner: team-devops
+  links:
+    - url: https://github.com/sua-organizacao/vpn-cli
+      title: Repositório GitHub
+    - url: https://docs.sua-organizacao.com/vpn-cli
+      title: Documentação Online

@@ -1,0 +1,7 @@
+mkdocs
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-include-markdown-plugin
+mkdocs-autorefs
+mkdocs-awesome-pages-plugin
+mkdocs-section-index

@@ -1,0 +1,22 @@
+site_name: VPN CLI Documentation
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Troubleshooting: troubleshooting.md
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: orange
+  features:
+    - navigation.tabs
+    - navigation.top
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - footnotes
+plugins:
+  - search
+  # - mkdocs-material
